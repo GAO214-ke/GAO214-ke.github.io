@@ -110,4 +110,4 @@ theme_config:
 deploy:
   type: git
   repo: https://github.com/GAO214-ke/GAO214-ke.github.io.git
-  branch: main
+  branch: master
