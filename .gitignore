@@ -1,0 +1,19 @@
+node_modules/
+public/
+.deploy_git/
+db.json
+.idea/
+.claude/
+.agent/
+.agents/
+.codex/
+
+# Logs and local environment files
+*.log
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
